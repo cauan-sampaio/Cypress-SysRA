@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="4.458" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2023-10-31T17:08:40" tests="0" file="cypress/e2e/features/SysRA.feature" failures="0" time="0">
+  </testsuite>
+  <testsuite name="SysRA Login" timestamp="2023-10-31T17:08:40" tests="1" failures="0" time="4.458">
+    <testcase name="SysRA Login Logar no SysRA com credenciais certas" time="4.458" classname="Logar no SysRA com credenciais certas" failure="false" error="false" success="true">
+    </testcase>
+  </testsuite>
+</testsuites>
